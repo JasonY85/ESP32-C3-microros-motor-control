@@ -11,5 +11,4 @@ Motor with encoder: JGB37-520 12V333RPM
 
 /right_wheel_speed --> (rad/s)  
 
-
-Adjust config.h accordingly.
+### Adjust config.h accordingly.
