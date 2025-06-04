@@ -1,6 +1,6 @@
 # ESP32-C3-microros-motor-control
 Motor Driver: TB6612FNG (STBY pin on high)  
-Motor with encoder: JGB37-520 12V333RPM
+2 motors with encoder: JGB37-520 12V333RPM
 
 ### Subscribed topic  
 /cmd_vel
