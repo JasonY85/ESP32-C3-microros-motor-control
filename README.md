@@ -7,6 +7,7 @@ Subscribed topic
 
 Published topics
 /left_wheel_speed --> (rad/s)
+
 /right_wheel_speed --> (rad/s)
 
 Adjust config.h accordingly.
